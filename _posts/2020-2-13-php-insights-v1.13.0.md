@@ -2,6 +2,7 @@
 layout: post
 title: PHP Insights v1.13.0 release
 image: https://raw.githubusercontent.com/nunomaduro/phpinsights/master/art/logo.gif
+image_square: https://github.com/nunomaduro/phpinsights/blob/master/art/heart.png?raw=true
 ---
 
 Thanks to [@50bhan](https://twitter.com/50bhan), [@jibbarth](https://twitter.com/jibbarth), [@bastien-phi](https://github.com/bastien-phi) for the amazing work on release v1.13 of [PHP Insights](https://phpinsights.com)!

@@ -21,6 +21,6 @@
     <meta property="twitter:title" content="{{ page.title }}" />
     {% endif %}
 
-    {% if page.image %}
-    <meta property="twitter:image" content="{{ page.image }}" />
+    {% if page.image || page.image_square %}
+    <meta property="twitter:image" content="{{ page.image_square ?? page.image }}" />
     {% endif %}
