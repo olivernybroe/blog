@@ -5,7 +5,7 @@ image: https://raw.githubusercontent.com/nunomaduro/phpinsights/master/art/logo.
 image_square: https://github.com/nunomaduro/phpinsights/blob/master/art/heart.png?raw=true
 ---
 
-Thanks to [@50bhan](https://twitter.com/50bhan), [@jibbarth](https://twitter.com/jibbarth), [@bastien-phi](https://twitter.com/Bastien_Phi) for the amazing work on release v1.13 of [PHP Insights](https://phpinsights.com)!
+Thanks to [@50bhan](https://twitter.com/50bhan), [@jibbarth](https://twitter.com/jibbarth), [@Bastien_Phi](https://twitter.com/Bastien_Phi) for the amazing work on release v1.13 of [PHP Insights](https://phpinsights.com)!
 
 ## GitHub action output support
 In this new version a new formatter has been added for rendering the results to a GitHub action supported output. This means if you run PHP Insights with GitHub actions, you can now use the parameter `--format=github-action` and all of the insights will be displayed inline. 
@@ -21,7 +21,7 @@ Issues are now sorted, which means it is now much easier to fix all issues, as t
 
 ![Sorted images screenshot](https://i.imgur.com/xPHSjoI.png)
 
-Thanks [@bastien-phi](https://twitter.com/Bastien_Phi), for this contribution!
+Thanks [@Bastien_Phi](https://twitter.com/Bastien_Phi), for this contribution!
 
 ## Custom output
 It is now possible to define a custom output, simply supply a class which implements [`Formatter`](https://github.com/nunomaduro/phpinsights/blob/master/src/Application/Console/Contracts/Formatter.php) and PHP Insights will be using that one.
