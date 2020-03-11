@@ -6,7 +6,7 @@ image_square: https://github.com/nunomaduro/phpinsights/blob/master/art/heart.pn
 tweet: https://twitter.com/OliverNybroe/status/1237709881542692864
 ---
 
-Thanks to [@50bhan](https://twitter.com/50bhan), [devyk](https://github.com/devyk), [@Bastien_Phi](https://twitter.com/Bastien_Phi), [@jibbarth](https://twitter.com/jibbarth) and [@enunomaduro](https://twitter.com/enunomaduro) for the amazing work on release v1.13 of [PHP Insights](https://phpinsights.com)!
+Thanks to [@50bhan](https://twitter.com/50bhan), [@wioncy](https://twitter.com/wioncy), [@Bastien_Phi](https://twitter.com/Bastien_Phi), [@jibbarth](https://twitter.com/jibbarth) and [@enunomaduro](https://twitter.com/enunomaduro) for the amazing work on release v1.13 of [PHP Insights](https://phpinsights.com)!
 
 ## Laravel 7 support
 There is now support for Laravel 7!
@@ -41,7 +41,7 @@ This can be done by adding the following to your configuration file
 ]
 ```
 
-Thanks [devyk](https://github.com/devyk) for this contribution!
+Thanks [@wioncy](https://twitter.com/wioncy) for this contribution!
 
 ## Aggregate diffs in the same error
 We now aggregates diffs of the same file in the same error!
