@@ -3,7 +3,7 @@ layout: post
 title: Pest PhpStorm plugin v0.3.0 release
 image: https://github.com/pestphp/art/blob/master/logo.gif?raw=true
 image_square: https://github.com/olivernybroe/olivernybroe.github.io/blob/master/images/pest-logo-square.png?raw=true
-tweet: 
+tweet: https://twitter.com/OliverNybroe/status/1291005260211920896?s=20
 ---
 
 Thanks to [@OliverNybroe](https://twitter.com/OliverNybroe), [@Adelf32](https://twitter.com/Adelf32) for the amazing work on release v0.3.0 of [Pest-intellij](https://pestphp.com/)!
