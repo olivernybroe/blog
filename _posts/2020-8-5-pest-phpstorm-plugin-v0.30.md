@@ -2,7 +2,7 @@
 layout: post
 title: Pest PhpStorm plugin v0.3.0 release
 image: https://github.com/pestphp/art/blob/master/logo.gif?raw=true
-image_square: /images/pest-logo-square.png
+image_square: https://github.com/olivernybroe/olivernybroe.github.io/blob/master/images/pest-logo-square.png?raw=true
 tweet: 
 ---
 
