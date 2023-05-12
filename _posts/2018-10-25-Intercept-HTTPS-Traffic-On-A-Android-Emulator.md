@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Intercept HTTPS Traffic On A Android Emulator
-image: https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fhn-images%2F1*6SPvBeNj336kduC7XnYxmA.jpeg&w=3840&q=75
-image_square: https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fhn-images%2F1*6SPvBeNj336kduC7XnYxmA.jpeg&w=3840&q=75
+image: https://raw.githubusercontent.com/olivernybroe/olivernybroe.github.io/master/images/mitmproxy-android.webp
+image_square: https://raw.githubusercontent.com/olivernybroe/olivernybroe.github.io/master/images/mitmproxy-android.webp
 tweet:
 ---
 
