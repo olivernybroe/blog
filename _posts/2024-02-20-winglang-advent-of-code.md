@@ -61,7 +61,7 @@ This is a list of some of the things I had to look up:
 - Classes has to be defined as inflight or preflight, not instances.
 - No default property value.
 - Private by default for both methods and properties (not constructor).
-- Static methods have toe define if inflight or preflight.
+- Static methods have to define if inflight or preflight.
 
 They were still quite enjoyable as I in general have a preference for doing OOP design. The points above is not things
 I think should necessarily be changed, but it was just things I had to look up and get used to.
