@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Using WingLang for Advent of Code 2023
-image: https://raw.githubusercontent.com/olivernybroe/olivernybroe.github.io/master/images/mitmproxy-android.webp
-image_square: https://raw.githubusercontent.com/olivernybroe/olivernybroe.github.io/master/images/mitmproxy-android.webp
+image: https://raw.githubusercontent.com/olivernybroe/olivernybroe.github.io/master/images/wing-circle.png
+image_square: https://raw.githubusercontent.com/olivernybroe/olivernybroe.github.io/master/images/wing-circle.png
 tweet:
 ---
 
